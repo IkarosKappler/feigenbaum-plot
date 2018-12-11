@@ -2,6 +2,7 @@
 
 The logistic map
 ~~~~
+ |R -> |R
  x(i) => lambda * x(i-1) * (1-x(i-1))
 ~~~~
 when plotted gives a peek into deterministic chaos. Whilst lambda resides inside the range ~[0..3.2] everthing
@@ -23,7 +24,12 @@ Feigenbaum bifurcation (logistic map)
 
 I made a high resultion plot (13776x924 pixels) which took my machine about an hour to compute.
 [Find a live demo here](https://www.int2byte.de/public/feigenbaum-plot/screenshot-feigenbaum-2018-12-12-4-x8.png "Feigenbaum bifurcation live demo")
-This file is about 40MB large.
+This file is about 40MB large:
+ * plot range [3.2 to 3.83]
+ * 500 iterations per sample
+ * sample size 0.1 (10 samples per pixel, makes 137.760 samples for lambda)
+ * plot (y axis) is scaled up from [0,1]
+ * x(0) is 0.2 (this value does not seem to have any affect at all after some iterations)
 
 
 [Find a live demo here](https://www.int2byte.de/public/feigenbaum-plot/main.html "Feigenbaum bifurcation live demo") (better have a quick engine)
