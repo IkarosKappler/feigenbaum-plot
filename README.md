@@ -23,7 +23,9 @@ Feigenbaum bifurcation (logistic map)
 ![Plotting the Feigenbaum bifurcation](screenshot-feigenbaum-2018-12-12-3.png "Plotting the Feigenbaum bifurcation")
 
 I made a high resultion plot (13776x924 pixels) which took my machine about an hour to compute.
-[Find a live demo here](https://www.int2byte.de/public/feigenbaum-plot/screenshot-feigenbaum-2018-12-12-4-x8.png "Feigenbaum bifurcation live demo")
+
+[Download Hi-Res plot here](https://www.int2byte.de/public/feigenbaum-plot/screenshot-feigenbaum-2018-12-12-4-x8.png "Feigenbaum bifurcation live demo")
+
 This file is about 40MB large:
  * plot range [3.2 to 3.83]
  * 500 iterations per sample
