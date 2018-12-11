@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=ETrYE4MdoLQ
 
 
 First attempt to visualize a fraction of the feigenbaum diagram
-![Feigenbaum Plot (with errors)](screenshot-20181030_0.png)
+![Feigenbaum Plot (with errors)](screenshot-feigenbaum-2018-12-12-3.png)
 
 
 Feigenbaum bifurcation (logistic map)
