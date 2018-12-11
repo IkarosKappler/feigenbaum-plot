@@ -16,11 +16,11 @@ https://www.youtube.com/watch?v=ETrYE4MdoLQ
 
 
 First attempt to visualize a fraction of the feigenbaum diagram
-![Feigenbaum Plot (with errors)](screenshot-feigenbaum-2018-12-12-3.png)
+![Feigenbaum Plot (with errors)](screenshot-20181030_0.png)
 
 
 Feigenbaum bifurcation (logistic map)
-![Plotting the Feigenbaum bifurcation](screenshot-20181212_3_feigenbaum.png "Plotting the Feigenbaum bifurcation")
+![Plotting the Feigenbaum bifurcation](screenshot-feigenbaum-2018-12-12-3.png "Plotting the Feigenbaum bifurcation")
 
 I made a high resultion plot (13776x924 pixels) which took my machine about an hour to compute.
 [Find a live demo here](https://www.int2byte.de/public/feigenbaum-plot/screenshot-feigenbaum-2018-12-12-4-x8.png "Feigenbaum bifurcation live demo")
