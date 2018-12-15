@@ -34,7 +34,7 @@ This file is about 40MB large:
  * x(0) is 0.2 (this value does not seem to have any affect at all after some iterations)
 
 
-[Find a live demo here](https://www.int2byte.de/public/feigenbaum-plot/main.html "Feigenbaum bifurcation live demo") (better have a quick engine)
+[Find a live demo here](https://www.int2byte.de/public/feigenbaum-plot/main.html "Feigenbaum bifurcation live demo") (better have a quick machine)
 
 
 

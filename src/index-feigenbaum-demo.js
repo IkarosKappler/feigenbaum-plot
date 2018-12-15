@@ -30,8 +30,8 @@
 	    bp.config.autoCenterOffset = false; // Only once at initialization
 	    bp.config.preDraw = function() {
 		// pre draw
-		bp.draw.offset.x = bp.fill.offset.x = 0;
-		bp.draw.offset.y = bp.fill.offset.y = bp.canvasSize.height-1;
+		bp.draw.offset.x = bp.fill.offset.x = bp.grid.center.x = 0;
+		bp.draw.offset.y = bp.fill.offset.y = bp.grid.center.y = bp.canvasSize.height-1;
 	    };
 	    bp.config.postDraw = function() {
 		// post draw
@@ -288,8 +288,8 @@
 	    }
 
 	    function plotCollection( x, lambda, data ) {
-		bp.draw.offset.x = bp.fill.offset.x = 0;
-		bp.draw.offset.y = bp.fill.offset.y = 0;
+		bp.draw.offset.x = bp.fill.offset.x = bp.grid.center.x = 0;
+		bp.draw.offset.y = bp.fill.offset.y = bp.grid.center.y = 0;
 		if( data instanceof WeightedBalancedCollection ) {
 		    plotBalancedCollection( x, lambda, data, data.root );
 		} else {
@@ -305,8 +305,8 @@
 	    }
 
 	    function plotBalancedCollection( x, lambda, data, node ) {
-		bp.draw.offset.x = bp.fill.offset.x = 0;
-		bp.draw.offset.y = bp.fill.offset.y = 0;
+		bp.draw.offset.x = bp.fill.offset.x = bp.grid.center.x = 0;
+		bp.draw.offset.y = bp.fill.offset.y = bp.grid.center.y = 0;
 		if( !node )
 		    return;
 		
