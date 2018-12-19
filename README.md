@@ -22,6 +22,14 @@ First attempt to visualize a fraction of the feigenbaum diagram
 Feigenbaum bifurcation (logistic map)
 ![Plotting the Feigenbaum bifurcation](screenshots/screenshot-feigenbaum-2018-12-12-3.png "Plotting the Feigenbaum bifurcation")
 
+
+Closer look into a bifurcation point near [3.563,3.6]
+![Plotting the Feigenbaum bifurcation](screenshots/screenshot-20181219_0-excerpt.png "Closer look into a bifurcation point near [3.563,3.6]")
+
+
+
+
+
 I made a high resultion plot (13776x924 pixels) which took my machine about an hour to compute.
 
 [Download Hi-Res plot here](https://www.int2byte.de/public/feigenbaum-plot/screenshot-feigenbaum-2018-12-12-4-x8.png "Feigenbaum bifurcation live demo")
