@@ -26,6 +26,10 @@ Feigenbaum bifurcation (logistic map)
 Closer look into a bifurcation point near [3.563,3.6]
 ![Plotting the Feigenbaum bifurcation](screenshots/screenshot-20181219_0-excerpt.png "Closer look into a bifurcation point near [3.563,3.6]")
 
+Zoom in a little bit more into [3.563,3.6]
+![Plotting the Feigenbaum bifurcation](screenshots/screenshot-20181219_10_excerpt.png "Zoom in a little bit more into [3.563,3.6]")
+
+
 
 
 
