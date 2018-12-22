@@ -4,3 +4,4 @@ Logistische Gleichung: \mathbb{R} \mapsto \mathbb{R} \\
 x_i &:= \lambda * x_i_-_1 * (1-x_i_-_1)  \\
 \end{align*}a
 
+# See https://www.quicklatex.com/

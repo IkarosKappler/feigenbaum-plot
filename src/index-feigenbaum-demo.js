@@ -20,7 +20,7 @@
 	function() {
 	    // All config params are optional.
 	     var bp = new PlotBoilerplate(
-		PlotBoilerplate.utils.saveMergeByKeys(
+		PlotBoilerplate.utils.safeMergeByKeys(
 		    { canvas                : document.getElementById('my-canvas'),					    
 		      fullSize              : true,
 		      fitToParent           : true,
@@ -69,7 +69,7 @@
 	    // +-------------------------------
 	    var gui = bp.createGUI();
 
-	    var config = PlotBoilerplate.utils.saveMergeByKeys( {
+	    var config = PlotBoilerplate.utils.safeMergeByKeys( {
 		plotX0                : 0.2,
 		plotIterations        : 500,
 		plotStart             : 3.2,
