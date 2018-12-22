@@ -1,7 +1,8 @@
 \begin{align*}
 \lambda \epsilon \mathbb{R} \\
-Logistische Gleichung: \mathbb{R} \mapsto \mathbb{R} \\
+x_0 \epsilon \mathbb{R} \\
+Logistic Map: \mathbb{R} \mapsto \mathbb{R} \\
 x_i &:= \lambda * x_i_-_1 * (1-x_i_-_1)  \\
-\end{align*}a
+\end{align*}
 
 # See https://www.quicklatex.com/
