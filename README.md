@@ -2,7 +2,7 @@
 
 The logistic map
 
-[The logistic map equation](logistic-map-equation.png "Equation of the logistic map")
+![The logistic map equation](logistic-map-equation.png "Equation of the logistic map")
 
 when plotted gives a peek into deterministic chaos. Whilst lambda resides inside the range ~[0..3.2] everthing
 seems fine and the recursive definition of the function gives (more or less) convergent series, the situation
