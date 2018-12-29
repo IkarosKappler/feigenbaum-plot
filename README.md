@@ -50,7 +50,7 @@ This file is about 40MB large:
 
 
 ### Changelog
-* 2018-12-18
+* 2018-12-28
   * Removed the 'plotScale' param (in favour of 'normalizeToMin' and 'normalizeToMax').
   * Added the balanced binary tree collection to increase performance.
 * 2018-12-22
