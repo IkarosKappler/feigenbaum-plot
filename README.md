@@ -50,6 +50,13 @@ This file is about 40MB large:
 
 
 ### Changelog
+* 2018-12-30
+  * Added a rectangular selector tool (to select sub plot areas).
+* 2018-12-29
+  * y was plotted inverted.
+* 2018-12-28
+  * Removed the 'plotScale' param (in favour of 'normalizeToMin' and 'normalizeToMax').
+  * Added the balanced binary tree collection to increase performance.
 * 2018-12-22
   * Added some equations.
 * 2018-12-11
